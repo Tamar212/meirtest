@@ -1,0 +1,7 @@
+\\FILESRV\Handesaim2\C#\תמי יגודיוב\Animal\Animal\bin\Debug\Animal.exe.config
+\\FILESRV\Handesaim2\C#\תמי יגודיוב\Animal\Animal\bin\Debug\Animal.exe
+\\FILESRV\Handesaim2\C#\תמי יגודיוב\Animal\Animal\bin\Debug\Animal.pdb
+\\FILESRV\Handesaim2\C#\תמי יגודיוב\Animal\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+\\FILESRV\Handesaim2\C#\תמי יגודיוב\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+\\FILESRV\Handesaim2\C#\תמי יגודיוב\Animal\Animal\obj\Debug\Animal.exe
+\\FILESRV\Handesaim2\C#\תמי יגודיוב\Animal\Animal\obj\Debug\Animal.pdb
